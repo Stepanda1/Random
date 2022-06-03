@@ -1,1 +1,1 @@
-# Random chislo
+# Random number
