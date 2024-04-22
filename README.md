@@ -1,2 +1,2 @@
 # Random number
-## stepanda1.github.io/Random/
+## https://stepanda1.github.io/Random/
